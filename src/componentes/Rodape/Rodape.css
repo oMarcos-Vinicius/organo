@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+.footer {
+    background-image: url("../../../public/imagens/fundo.png");
+    background-size: cover;
+    background-color: #6278F7;
+    height: 213px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer .footer-social {
+    width: 15%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer .footer-logo {
+    width: 15%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.footer .footer-texto {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 24.38px;
+    font-size: 15px;
+    width: 15%;
+    display: flex;
+    justify-content: center;
+}
